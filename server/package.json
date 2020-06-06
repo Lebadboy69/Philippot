@@ -11,7 +11,7 @@
     "license": "LICENSE",
     "dependencies": {
         "apollo-datasource": "^0.6.3",
-        "apollo-server-express": "^2.9.12",
+        "apollo-server-express": "^2.14.2",
         "camelcase": "^5.3.1",
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
